@@ -3,8 +3,8 @@ Padrino framework.
 
 To see the bug, check out the repo and run:
 
- bundle install
- padrino rake spec
+    bundle install
+    padrino rake spec
  
 (Note that "*padrino*" part on the front of the rake command)
 
